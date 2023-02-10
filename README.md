@@ -26,19 +26,4 @@ linux  go环境
 
 ---
 
-```bash
-git clone https://github.com/LiuXiangBiao/sshctl.git
-```
-```bash
-go mod tidy
-```
-```bash
-go build
-```
-```bash
-mv sshctl /gopath/bin/
-```
-
----
-
-### 详情 sshctl -h 获取帮助信息
+#### 详情 sshctl -h 获取帮助信息
