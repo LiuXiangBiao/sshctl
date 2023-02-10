@@ -40,4 +40,5 @@ mv sshctl /gopath/bin/
 ```
 
 ---
-详情 sshctl -h 获取帮助信息
+
+#### 详情 sshctl -h 获取帮助信息
